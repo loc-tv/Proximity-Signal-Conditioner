@@ -1,0 +1,85 @@
+# Altium Designer
+
+# Cache
+
+__Previews/
+History/
+Project Logs for *
+Project Outputs for *
+
+# Generated outputs
+
+*.PDF
+*.pdf
+*.TXT
+*.txt
+*.CSV
+*.csv
+*.xls
+*.xlsx
+
+# CAM / Manufacturing
+
+*.GBL
+*.GBO
+*.GBP
+*.GBS
+*.GML
+*.GTL
+*.GTO
+*.GTP
+*.GTS
+*.TXT
+*.REP
+*.RUL
+*.DRR
+*.LDP
+*.APR
+*.ART
+
+# Output jobs
+
+Generated/
+Outputs/
+
+# Workspace cache
+
+*.Dat
+*.dbLock
+
+# Compiler files
+
+*.PcbDocPreview
+*.SchDocPreview
+
+# Autosave and backup
+
+*.bak
+*.Bak
+*.BAK
+*.~*
+*.tmp
+
+# Differential pair cache
+
+*.PrjPcbStructure
+
+# Altium Workspace files
+
+*.DSNWrk
+
+# Windows
+
+Thumbs.db
+Desktop.ini
+
+# VS Code
+
+.vscode/
+
+# Python
+
+**pycache**/
+*.pyc
+.venv/
+venv/
